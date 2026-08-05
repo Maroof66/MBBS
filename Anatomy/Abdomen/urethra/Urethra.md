@@ -27,17 +27,17 @@
   - Divided into 2 parts
     - Bulbar
     - Pendulous/Penile
-- ![PartsOfUrethrh](PartsOfUrethra.png) 
+- ![PartsOfUrethrh](images/PartsOfUrethra.png) 
  
 ## Shape of Urethra
 - In flaccid penis, urethra as a whole represents double curve except during the passage of fluid along it.
 - The urethral canal is a mere slit.
 - In transverse section: 
-  - ![TS](ShapesOfUrethralCanalInTS.png)
+  - ![TS](images/ShapesOfUrethralCanalInTS.png)
 ## Sphincters of Urethra
 - Two sphincters: Internal & External urethral sphincters
 - Difference b/w Internal & External urethral sphincters
-  - ![Diff](DiffbetSphincters.png)
+  - ![Diff](images/DiffbetSphincters.png)
 
 ## Features of Urethra
 - Posterior Urethra: 3 parts
@@ -65,7 +65,7 @@
          - consists of openings of numerous glands
          - Corresponds to Vagina (*vaginus masculinus*)
          - Develops from Mullerian Ducts
-    - ![ProstaticUrethraFeatures](FeaturesOfProstaticUrethra.png)
+    - ![ProstaticUrethraFeatures](images/FeaturesOfProstaticUrethra.png)
   - Membranous Urethra:
     - 2 to 2.5cm long
     - Second narrowest part of urethra (Ext. urethral orifice is the narrowest)
@@ -113,7 +113,7 @@
     - penile *on ventral surface of penis*
     - penoscrotal *at junction of penis and scrotum*
     - perineal *at unfused part of scrotum*
-  - ![Hypospadias](HypospadiasTypespng.png) 
+  - ![Hypospadias](images/HypospadiasTypespng.png) 
 - Epispadias:
   - rare condition that causes failure of development of infraumbilical part of anterior abdominal wall 
   - leads to opening of urethra or bladder on the dorsum of penis. 
