@@ -36,8 +36,9 @@
 
 ### Paper 2
 
-## Gemini Flaschcard Prompt
-```Generate a comprehensive hierarchical flashcard deck from the provided notes.
+## Gemini Flaschcard 
+```
+Generate a comprehensive hierarchical flashcard deck from the provided notes.
 
 IMPORTANT:
 These flashcards are for MBBS university examinations where answers are written under headings. The objective is not merely to memorize isolated facts but to reconstruct the complete university answer from memory.
@@ -201,7 +202,7 @@ Output the flashcards grouped exactly as follows:
 🔵 DECK 4 – Integration
 (all Deck 4 flashcards)
 
-At the end, provide a summary:
+At the end, provide a summary card:
 
 Deck 1: XX cards
 Deck 2: XX cards
@@ -209,4 +210,5 @@ Deck 3: XX cards
 Deck 4: XX cards
 Total: XX cards
 
-The flashcards should progressively reconstruct the complete university answer from memory, starting from the overall framework and ending with integrated understanding.```
+The flashcards should progressively reconstruct the complete university answer from memory, starting from the overall framework and ending with integrated understanding.
+```
