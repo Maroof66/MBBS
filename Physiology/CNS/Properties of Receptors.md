@@ -1,5 +1,5 @@
 # Properties Of Receptors
-### Headings
+### Headings *(mnemonic: SARSRL)*
     - Specificity of Response (Muller's Law)
     - Adaptation 
     - Response to Increase strength of stimulus
