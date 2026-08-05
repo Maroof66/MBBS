@@ -210,5 +210,7 @@ Deck 3: XX cards
 Deck 4: XX cards
 Total: XX cards
 
+and on clicking the summary card it must replace the XX with actual number of the cards the summary card must be present strictly it should not be avoided to add 
+
 The flashcards should progressively reconstruct the complete university answer from memory, starting from the overall framework and ending with integrated understanding.
 ```
