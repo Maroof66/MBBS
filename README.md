@@ -202,15 +202,39 @@ Output the flashcards grouped exactly as follows:
 🔵 DECK 4 – Integration
 (all Deck 4 flashcards)
 
-At the end, provide a summary card:
 
-Deck 1: XX cards
-Deck 2: XX cards
-Deck 3: XX cards
-Deck 4: XX cards
-Total: XX cards
+The flashcards should progressively reconstruct the complete university answer from memory, starting from the overall framework and ending with integrated understanding. 
 
-and on clicking the summary card it must replace the XX with actual number of the cards the summary card must be present strictly it should not be avoided to add 
+═══════════════════════════════════════
+MANDATORY FINAL SECTION
+═══════════════════════════════════════
 
-The flashcards should progressively reconstruct the complete university answer from memory, starting from the overall framework and ending with integrated understanding.
+After generating ALL flashcards, ALWAYS append one final non-flashcard section titled:
+
+📊 FLASHCARD SUMMARY
+
+This section is compulsory and must always be generated.
+
+Format it EXACTLY as follows:
+
+--------------------------------------------------
+📊 FLASHCARD SUMMARY
+
+🟢 Deck 1 – Skeleton: <number> cards
+
+🟡 Deck 2 – Heading Recall: <number> cards
+
+🔴 Deck 3 – High-Yield Facts: <number> cards
+
+🔵 Deck 4 – Integration: <number> cards
+
+━━━━━━━━━━━━━━━━━━━━━━
+TOTAL: <number> cards
+━━━━━━━━━━━━━━━━━━━━━━
+
+It must appear exactly once.
+
+It must always be the final section of the output.
+
+Never omit this section, even if one or more decks contain zero cards. 
 ```
