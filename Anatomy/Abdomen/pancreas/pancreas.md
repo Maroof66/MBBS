@@ -31,7 +31,7 @@
    - length: 12 to 15 cm
    - weight: 80 to 90 gm
 ## Parts
-- Divied into 4 parts: Head, Neck, Body & Tail
+- Divided into 4 parts: Head, Neck, Body & Tail
 - ![parts](images/partsofpancreas.png)
 ## Relations  
 - Head:
