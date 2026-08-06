@@ -29,6 +29,7 @@
   - **Dorsal pancreatic bud** remains on the **left side** of the duodenum.
 - Continued differential growth brings the **ventral bud** closer to the **dorsal bud**.
 - **Fusion of ventral and dorsal pancreatic buds** occurs during the **7th week of intrauterine life (IUL)**.
+![a](images/fusioonOfBuds.png)
 
 ---
 
@@ -43,6 +44,8 @@ Formed by:
 
 ### b. Accessory Pancreatic Duct (Duct of Santorini)
 - Formed by the **proximal part** of the duct of the **dorsal pancreatic bud**.
+
+![](images/ductFusion.png)
 
 ---
 
