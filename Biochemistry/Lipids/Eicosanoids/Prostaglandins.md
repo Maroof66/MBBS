@@ -28,30 +28,12 @@
 | **Series 2** *(Most common)* | Arachidonic acid | 2 |
 | **Series 3** | Eicosapentaenoic acid (EPA) | 3 |
 
+> **Most naturally occurring prostaglandins belong to Series 2.**
+
 ---
 
 # Biosynthesis
-
-```text
-Membrane Phospholipids
-        │
-        │ Phospholipase A₂
-        ▼
- Arachidonic Acid
-        │
-        │ Prostaglandin H Synthase (PGHS)
-        │
-        ├── Cyclooxygenase (COX)
-        └── Peroxidase
-        ▼
-      PGG₂
-        ▼
-      PGH₂
-        ▼
- ┌───────────────┬─────────────┬────────────┬────────────┐
- ▼               ▼             ▼            ▼
-PGE₂          PGF₂α         PGI₂         TXA₂
-```
+![](images/prostaglandinsSynthesis.png)
 
 > **Remember:** **PGG₂** and **PGH₂** are common intermediates.
 
