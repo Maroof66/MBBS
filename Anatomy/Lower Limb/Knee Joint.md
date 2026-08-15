@@ -28,7 +28,15 @@
 ---
 
 # 3. Ligaments
-
+  1. Fibrous capsule
+  2. Ligamentum patellae
+  3. Tibial collateral or medial ligament
+  4. Fibular collateral or lateral ligament
+  5. Oblique popliteal ligament
+  6. Arcuate popliteal ligament
+  7. Anterior and posterior cruciate ligaments
+  8. Medial and lateral menisci
+  9. Transverse ligament.
 ### A. Fibrous capsule
 
 * Thin and deficient anteriorly.
