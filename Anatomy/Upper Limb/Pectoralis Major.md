@@ -26,6 +26,7 @@
   - Posterior Lamina: 
     - thinner and longer
     - gets costal, sternal and aponeurotic fibres
+![PectoraliMajor](images/pectoralismajor.png)
 ## Nerve Supply 
  - Medial and lateral pectoral nerves (Composite/Hybrid muscle)
 ## Blood Supply

@@ -41,3 +41,4 @@
   * Stabilises the clavicle during movements of the shoulder joint
   * Forms a cushion for axillary vessels and brachial plexus
 
+![PectoralRegionMuscles](images/PectoralRegionMuscles.png)
