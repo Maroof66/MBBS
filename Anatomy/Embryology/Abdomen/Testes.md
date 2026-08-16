@@ -4,7 +4,7 @@
 
 * Gonads develop from the **genital ridge** on the posterior abdominal wall.
 * It is formed in the **5th week** by proliferation of coelomic epithelium covering the medial surface of the mesonephros.
-* **Primordial germ cells** migrate to the genital ridge during the 5th week.
+* **Primordial germ cells** arising from epiblasts migrate to the genital ridge during the 5th week.
 * Up to the **7th week**, the gonad remains **indifferent/ambisexual**.
 ![alt text](images/MigrationOfPGs.png)
 ![alt text](images/IndiffGonad.png)
@@ -27,7 +27,7 @@
 * **Primordial germ cells → spermatogonia**.
 * Mesenchymal tissue forms the **tunica albuginea** and mediastinal septa.
 * Mesenchymal cells between the testis cords differentiate into **Leydig cells**.
-
+![alt text](images/DevOfTestis.png)
 ### 5. Development of efferent duct system
 
 * Rete testis communicates with **12–15 mesonephric tubules**.
