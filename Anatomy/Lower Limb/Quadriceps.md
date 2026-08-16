@@ -41,7 +41,7 @@
   * **Insertion**
 
     * **Base of Patella**
-  * ![alt text](images/RectusFemoris.png)
+  * ![RectusFemoris](images/RectusFemoris.png)
 * **Vastus Lateralis:**
 
   * **Origin**
@@ -73,7 +73,7 @@
 
     * Medial 1/3rd of the base of the base of patella
     * Upper 2/4th of the medial border of the patella
-  * ![alt text](images/vastimuscles.png)
+  * ![vastimuscles](images/vastimuscles.png)
 
 ## **4. Nerve Supply**
 
