@@ -90,7 +90,7 @@ Amino acid → **Phenylalanine**
 - **Class II:** long extra arm → 13–21 base pairs.
 
 ---
-![alt text](image.png)
+![alt text](images/image.png)
 ## 4. Processing of tRNA
 
 - tRNA is initially synthesized as a **long precursor**.

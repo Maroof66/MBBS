@@ -15,9 +15,6 @@
 ![alt text](images/UterusDevelopment.png)
 ![alt text](images/flowChartUterusDev.png)
 
-
-Yep 👀 **these are absolutely worth adding directly under Development of Uterus**, especially because the anomalies are basically **failures of fusion/development of the paramesonephric (Müllerian) ducts**.
-
 # Anomalies of Uterus
 
 ### 1. Bicornuate uterus
