@@ -1,5 +1,40 @@
 # TRANSLATION / PROTEIN SYNTHESIS
+---
 
+## Headings
+* ### Definition
+* ### Phases of Translation
+
+  * ### 1. Activation of Amino Acids
+
+    * Charging of tRNA
+    * Two steps of activation
+    * Energy requirement
+  * ### 2. Initiation of Protein Synthesis
+
+    * Recognition of start codon
+    * Formation of pre-initiation complex
+    * Binding of mRNA
+    * Formation of 80S initiation complex
+  * ### 3. Ribosomal Sites
+
+    * P site — Peptidyl site
+    * A site — Aminoacyl site
+  * ### 4. Elongation of Protein Synthesis
+
+    * Binding of aminoacyl-tRNA
+    * Peptide bond formation
+    * Translocation
+  * ### 5. Termination of Translation
+
+    * Recognition of stop codons
+    * Binding of release factors
+    * Release of polypeptide chain
+    * Dissociation of ribosome
+  * ### 6. Polysomes / Polyribosomes
+  * ### 7. Post-translational Processing
+* ### Energy Requirement of Translation
+---
 ### Definition
 
 * Translation is the **cytoplasmic process of synthesis of a polypeptide chain using mRNA as template**.
