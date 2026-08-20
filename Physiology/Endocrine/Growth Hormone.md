@@ -154,17 +154,15 @@
 
 ```mermaid
 flowchart TD
-    AP[Anterior Pituitary] -->|Release (+)| GH[GH]
-    GH -->|(+) Stimulate| LC["Liver cell to Release (IGF-I)"]
+    AP[Anterior Pituitary] -->|"Release (+)"| GH[GH]
+    GH -->|"(+) Stimulate"| LC["Liver cell to Release (IGF-I)"]
     
-    LC -->|(+) Stimulate| GHIH[GHIH]
-    GHIH -->|(-) Inhibit| AP
+    LC -->|"(+) Stimulate"| GHIH[GHIH]
+    GHIH -->|"(-) Inhibit"| AP
     
-    LC -->|(-) Inhibit| GHRH_GHRP["GHRH / GHRP"]
-    GHRH_GHRP -->|(+) Stimulate| AP
-
+    LC -->|"(-) Inhibit"| GHRH_GHRP["GHRH / GHRP"]
+    GHRH_GHRP -->|"(+) Stimulate"| AP
 ```
-
 ---
 
 ### ACTIVITY OF ANTERIOR PITUITARY
