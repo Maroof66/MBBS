@@ -1,4 +1,3 @@
-```markdown
 ## HISTOLOGY OF CEREBRUM
 
 ```mermaid
@@ -88,6 +87,3 @@ e. **Other Minor Types:** Horizontal cells of Cajal, basket cells, double bouque
 a. **External Band of Baillarger:** Horizontal fiber stripe located within **Layer IV** (*Internal Granular Layer*).
 b. **Internal Band of Baillarger:** Horizontal fiber stripe located within **Layer V** (*Internal Pyramidal Layer*).
 
-```
-
-```
