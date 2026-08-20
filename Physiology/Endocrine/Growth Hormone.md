@@ -131,6 +131,7 @@
   4. Exercise
   5. Stress and Trauma
   6. Initial stage of sleep
+
 * **GH secretion inhibited by :—**
   1. Hyperglycemia
   2. $\uparrow$es free F.A. in blood
@@ -161,3 +162,15 @@ flowchart TD
     
     LC -->|(-) Inhibit| GHRH_GHRP["GHRH / GHRP"]
     GHRH_GHRP -->|(+) Stimulate| AP
+
+```
+
+---
+
+### ACTIVITY OF ANTERIOR PITUITARY
+
+| HYPER-ACTIVITY ($\uparrow$es GH) | HYPO-ACTIVITY ($\downarrow$es GH) |
+| --- | --- |
+| 1. Gigantism | 1. Pituitary Dwarfism |
+| 2. Acromegaly |  |
+| 3. Acromegalic Gigantism |  |
