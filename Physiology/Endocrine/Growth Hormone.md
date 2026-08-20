@@ -167,7 +167,7 @@ flowchart TD
 
 ### ACTIVITY OF ANTERIOR PITUITARY
 
-| HYPER-ACTIVITY ($\uparrow$es GH) | HYPO-ACTIVITY ($\downarrow$es GH) |
+| HYPER-ACTIVITY (↑es GH) | HYPO-ACTIVITY (↓es GH) |
 | --- | --- |
 | 1. Gigantism | 1. Pituitary Dwarfism |
 | 2. Acromegaly |  |
