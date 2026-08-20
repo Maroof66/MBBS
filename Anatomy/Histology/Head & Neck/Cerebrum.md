@@ -26,6 +26,7 @@ b. **Composition of Gray Matter:**
 * Neuronal cell bodies and processes (axons and dendrites)
 * Neuroglia and dense networks of blood capillaries
 * Complex synaptic neuropil organized into **6 structural layers**
+
 c. **Composition of White Matter:** Composed of small round nuclei of **neuroglial cells** and dense bundles of **nerve fibers** (*myelinated processes*).
 
 ---
@@ -33,52 +34,129 @@ c. **Composition of White Matter:** Composed of small round nuclei of **neurogli
 ### 2. PRINCIPAL NEURONS OF CEREBRAL CORTEX
 
 a. **Pyramidal Cells:**
-
 * Make up approximately **$\frac{2}{3}$ of all cortical neurons** (~$5.5\text{ billion}$).
 * **Morphology:** Large, triangular, **multipolar neurons** with apex directed toward the cortical surface.
 * **Processes:**
 * *Apical dendrite:* Arises from apex $\rightarrow$ extends toward surface.
 * *Basal dendrites:* Arise from basal angles.
 * *Axon:* Arises from base $\rightarrow$ projects downward into white matter.
-b. **Stellate / Granule Cells:** Small, star-shaped, multipolar interneurons with short processes.
-c. **Cells of Martinotti:** Small polygonal/triangular neurons whose axons uniquely travel **upward toward the cortical surface**.
-d. **Fusiform Cells:** Spindle-shaped neurons oriented perpendicular to the surface; axon arises centrally and dendrites emerge from both poles.
-e. **Other Minor Types:** Horizontal cells of Cajal, basket cells, double bouquet cells, and chandelier cells.
+
+b. **Stellate / Granule Cells:** 
+  * Small, star-shaped, multipolar interneurons with short processes.
+
+c. **Cells of Martinotti:** 
+  * Small polygonal/triangular neurons whose axons uniquely travel **upward toward the cortical surface**.
+
+d. **Fusiform Cells:** 
+  * Spindle-shaped neurons oriented perpendicular to the surface; axon arises centrally and dendrites emerge from both poles.
+
+e. **Other Minor Types:** 
+  * Horizontal cells of Cajal, basket cells, double bouquet cells, and chandelier cells.
 
 
 
 ---
 
 ### 3. LAYERS OF CEREBRAL CORTEX
-
-| Layer | Primary Neuronal Population | Key Structural & Fiber Features |
-| --- | --- | --- |
-| **I. Molecular Layer** *(Plexiform)* | • Horizontal cells of Cajal<br>
-
-<br>• Neuroglial cells (only nuclei visible) | • Lies immediately beneath **pia mater**<br>
-
-<br>• Dense neuropil and superficial capillaries |
-| **II. External Granular Layer** | • Small pyramidal cells<br>
-
-<br>• Stellate / Granule cells | • Densely packed cellular zone |
-| **III. External Pyramidal Layer** | • Medium pyramidal cells<br>
-
-<br>• Cells of Martinotti<br>
-
-<br>• Few stellate cells | • Axons project as **association** and **commissural fibers** |
-| **IV. Internal Granular Layer** | • Densely packed small stellate / granule cells | • Prominent horizontal fiber plexus (**External band of Baillarger**) |
-| **V. Internal Pyramidal Layer** *(Ganglionic)* | • **Betz cells** (giant pyramidal cells of motor cortex)<br>
-
-<br>• Large pyramidal cells<br>
-
-<br>• Cells of Martinotti & fusiform cells | • Source of major projection pathways<br>
-
-<br>• Horizontal fiber plexus (**Internal band of Baillarger**) |
-| **VI. Multiform Layer** *(Polymorphic)* | • Spindle-shaped fusiform cells<br>
-
-<br>• Cells of Martinotti<br>
-
-<br>• Stellate cells | • Merges directly into the underlying subcortical **white matter** |
+<table>
+  <thead>
+    <tr>
+      <th>Layer</th>
+      <th>Primary Neuronal Population</th>
+      <th>Key Structural &amp; Fiber Features</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>I. Molecular Layer</strong><br><em>(Plexiform)</em></td>
+      <td>
+        <ul>
+          <li>Horizontal cells of Cajal</li>
+          <li>Neuroglial cells (nuclei visible)</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Directly beneath pia mater</li>
+          <li>Dense neuropil and superficial capillaries</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>II. External Granular Layer</strong></td>
+      <td>
+        <ul>
+          <li>Small pyramidal cells</li>
+          <li>Stellate / granule cells</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Densely packed cellular layer</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>III. External Pyramidal Layer</strong></td>
+      <td>
+        <ul>
+          <li>Medium pyramidal cells</li>
+          <li>Cells of Martinotti</li>
+          <li>Few stellate cells</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Axons form association and commissural fibers</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>IV. Internal Granular Layer</strong></td>
+      <td>
+        <ul>
+          <li>Closely packed small granule / stellate cells</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Prominent <strong>External band of Baillarger</strong></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>V. Internal Pyramidal Layer</strong><br><em>(Ganglionic)</em></td>
+      <td>
+        <ul>
+          <li><strong>Betz cells</strong> (giant motor cortex cells)</li>
+          <li>Large pyramidal cells</li>
+          <li>Martinotti, fusiform, and granule cells</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Source of major efferent tracts</li>
+          <li>Prominent <strong>Internal band of Baillarger</strong></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>VI. Multiform Layer</strong><br><em>(Polymorphic)</em></td>
+      <td>
+        <ul>
+          <li>Spindle-shaped fusiform cells</li>
+          <li>Cells of Martinotti</li>
+          <li>Stellate cells</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Merges directly into subcortical white matter</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -87,3 +165,5 @@ e. **Other Minor Types:** Horizontal cells of Cajal, basket cells, double bouque
 a. **External Band of Baillarger:** Horizontal fiber stripe located within **Layer IV** (*Internal Granular Layer*).
 b. **Internal Band of Baillarger:** Horizontal fiber stripe located within **Layer V** (*Internal Pyramidal Layer*).
 
+
+![alt text](image.png)
