@@ -1,1 +1,0 @@
-![alt text](images/SpleenHistoFW.png)
