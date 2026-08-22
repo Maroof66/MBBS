@@ -345,9 +345,11 @@ flowchart LR
 
 **Action**
 
+$$
 [
 \text{Contraction} \rightarrow \text{Tongue narrower + thicker}
 ]
+$$
 
 ### 🔑 Remember
 
@@ -608,6 +610,8 @@ flowchart TD
 
 # 6. LYMPHATIC DRAINAGE ⭐⭐⭐
 
+![alt text](images/LymphaticsOfTongue.png)
+
 **Very high-yield for clinical anatomy of tongue.**
 
 The lymphatics are divided into:
@@ -690,9 +694,9 @@ Therefore, **tongue cancers can spread to lymph nodes on both sides**.
 
 ### ⭐ Final drainage
 
-[
+$$
 \boxed{\text{Most lymph from tongue} \rightarrow \text{Jugulo-omohyoid nodes}}
-]
+$$
 
 Hence, **jugulo-omohyoid nodes = lymph nodes of the tongue**.
 
@@ -920,9 +924,9 @@ flowchart TD
 * Normal left genioglossus pulls the **base towards left**
 * Therefore, **apex deviates towards right**
 
-
-[ \boxed{\text{XII nerve paralysis → tongue deviates TO the affected side}} ]
-
+$$
+\boxed{\text{XII nerve paralysis → tongue deviates TO the affected side}} 
+$$
 
 ### 🧠 Lock it in
 
