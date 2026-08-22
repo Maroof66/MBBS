@@ -461,3 +461,4 @@ EXCEPT:
 (b) First chondrosternal joint
 (c) Costochondral joints.
 (d) Symphysis pubis 
+
