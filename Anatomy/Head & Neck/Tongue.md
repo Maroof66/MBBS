@@ -142,6 +142,8 @@ flowchart TD
 ---
 
 > ![alt text](images/partsOfTongue.png)
+> ![alt text](images/partsOfTongue2.png)
+
 
 ## 4. Posteriormost Part
 
@@ -257,6 +259,7 @@ flowchart TD
 **Extrinsic muscles → change POSITION of tongue**
 
 > ![alt text](images/musclesOfTongue.png)
+> ![alt text](images/musclesOfTongue2.png)
 
 ---
 
@@ -534,3 +537,410 @@ flowchart TD
 ```
 
 **General arrangement → Intrinsic muscles → 4 muscles → Extrinsic muscles → 4 muscles → actions → clinical importance of genioglossus.**
+
+
+# 4. ARTERIAL SUPPLY
+
+### Main artery → **Lingual artery**
+
+* Branch of **external carotid artery**
+* It is **tortuous** and supplies the tongue.
+
+### Root of tongue — additional supply
+
+* **Tonsillar artery** → branch of facial artery
+* **Ascending pharyngeal artery** → branch of external carotid artery
+
+```mermaid
+flowchart LR
+    A[External carotid artery] --> B[Lingual artery]
+    B --> C[Tongue]
+
+    D[Facial artery] --> E[Tonsillar artery]
+    E --> F[Root of tongue]
+
+    A --> G[Ascending pharyngeal artery]
+    G --> F
+```
+
+### 🔑 Exam line
+
+**Tongue → mainly lingual artery; root additionally receives tonsillar + ascending pharyngeal arteries.**
+
+---
+
+# 5. VENOUS DRAINAGE
+
+### Main veins
+
+```mermaid
+flowchart TD
+    A[Tongue] --> B[Deep lingual vein]
+    A --> C[Venae comitantes of lingual artery]
+    A --> D[Venae comitantes of hypoglossal nerve]
+
+    C --> E[Lingual vein]
+    D --> E
+    B --> E
+
+    E --> F[Internal jugular vein]
+```
+
+### 1. Deep lingual vein ⭐
+
+* **Chief vein of tongue**
+* Seen on **inferior surface**
+* Lies near the **median plane**
+
+### 2. Venae comitantes of lingual artery
+
+* Accompany **lingual artery**
+* Joined by **dorsal lingual veins**
+
+### 3. Venae comitantes of hypoglossal nerve
+
+* Accompany **hypoglossal nerve**
+* Unite with other veins at **posterior border of hyoglossus**
+* Form **lingual vein**
+* Lingual vein → **internal jugular vein**
+
+---
+
+# 6. LYMPHATIC DRAINAGE ⭐⭐⭐
+
+**Very high-yield for clinical anatomy of tongue.**
+
+The lymphatics are divided into:
+
+| Region       | Main lymphatics                        |
+| ------------ | -------------------------------------- |
+| **Marginal** | Margins of anterior tongue             |
+| **Central**  | Central anterior 2/3                   |
+| **Dorsal**   | Circumvallate papillae + posterior 1/3 |
+
+```mermaid
+flowchart TD
+    A[LYMPHATICS OF TONGUE] --> B[Marginal]
+    A --> C[Central]
+    A --> D[Dorsal]
+
+    B --> B1[Tip + frenulum]
+    B --> B2[Rest of margin]
+
+    B1 --> B3[Submental]
+    B1 --> B4[Submandibular]
+    B1 --> B5[Jugulo-omohyoid]
+
+    B2 --> B6[Submandibular]
+    B2 --> B7[Digastric]
+
+    C --> C1[Jugulodigastric]
+    C --> C2[Jugulo-omohyoid]
+    C --> C3[Submandibular]
+
+    D --> D1[Jugulo-omohyoid]
+    D --> D2[Jugulodigastric]
+```
+
+## A. Marginal vessels
+
+### Tip + lingual frenulum
+
+Drain **bilaterally** into:
+
+* **Submental nodes**
+* **Submandibular nodes**
+* **Jugulo-omohyoid nodes**
+
+### Rest of margin
+
+→ **Submandibular nodes**
+
+→ **Digastric nodes**
+
+---
+
+## B. Central vessels
+
+Drain the **central region of anterior 2/3** into:
+
+* **Jugulodigastric nodes**
+* **Jugulo-omohyoid nodes**
+* **Submandibular nodes**
+
+---
+
+## C. Dorsal vessels
+
+Drain:
+
+* **Circumvallate papillae**
+* **Posterior 1/3**
+
+Into:
+
+* **Jugulo-omohyoid nodes**
+* **Jugulodigastric nodes**
+
+### ⭐ Important rule
+
+> **Lymphatics near the median plane cross bilaterally.**
+
+Therefore, **tongue cancers can spread to lymph nodes on both sides**.
+
+### ⭐ Final drainage
+
+[
+\boxed{\text{Most lymph from tongue} \rightarrow \text{Jugulo-omohyoid nodes}}
+]
+
+Hence, **jugulo-omohyoid nodes = lymph nodes of the tongue**.
+
+---
+
+# 7. NERVE SUPPLY ⭐⭐⭐
+
+Divide into:
+
+```mermaid
+flowchart TD
+    A[Nerve supply of tongue] --> B[Motor]
+    A --> C[Sensory]
+
+    B --> B1[Hypoglossal nerve]
+    B --> B2[Palatoglossus → cranial root of accessory via pharyngeal plexus]
+
+    C --> C1[Anterior 2/3]
+    C --> C2[Posterior 1/3]
+    C --> C3[Posterior-most part]
+```
+
+# A. Motor Supply
+
+### Rule
+
+**All muscles of tongue → Hypoglossal nerve (XII)**
+
+### Exception ⭐
+
+**Palatoglossus → cranial root of accessory nerve via pharyngeal plexus**
+
+| Muscle group              | Nerve                                             |
+| ------------------------- | ------------------------------------------------- |
+| **All intrinsic muscles** | Hypoglossal XII                                   |
+| **Genioglossus**          | Hypoglossal XII                                   |
+| **Hyoglossus**            | Hypoglossal XII                                   |
+| **Styloglossus**          | Hypoglossal XII                                   |
+| **Palatoglossus**         | **Cranial root of accessory → pharyngeal plexus** |
+
+### 🧠 One-line memory
+
+> **“Tongue = XII, except Palatoglossus.”**
+
+---
+
+# B. Sensory Supply
+
+## The 3-zone rule
+
+| Region                                     | General sensation            | Taste                        |
+| ------------------------------------------ | ---------------------------- | ---------------------------- |
+| **Anterior 2/3** *(except circumvallate)*  | **Lingual nerve**            | **Chorda tympani**           |
+| **Posterior 1/3 + circumvallate papillae** | **Glossopharyngeal IX**      | **Glossopharyngeal IX**      |
+| **Posterior-most part**                    | **Internal laryngeal nerve** | **Internal laryngeal nerve** |
+
+```mermaid
+flowchart LR
+    A[TONGUE] --> B[Anterior 2/3]
+    A --> C[Posterior 1/3 + circumvallate]
+    A --> D[Posterior-most part]
+
+    B --> B1[General → Lingual nerve]
+    B --> B2[Taste → Chorda tympani]
+
+    C --> C1[General + Taste → Glossopharyngeal IX]
+
+    D --> D1[Internal laryngeal nerve]
+    D1 --> D2[Superior laryngeal branch of Vagus X]
+```
+
+>![alt text](images/nerveSupplyOfTongue.png)
+
+### 🔥 The sensory pattern to lock in
+
+**Anterior 2/3**
+
+→ **L**ingual = **L**ight/general sensation
+→ **C**horda tympani = **C**atchy/taste
+
+**Posterior 1/3**
+
+→ **IX does BOTH**
+
+**Posterior-most**
+
+→ **X**
+
+---
+v
+# 🧠 FINAL EXAM-REVISION MAP
+
+```mermaid
+flowchart TD
+    A[TONGUE] --> B[Arterial supply]
+    A --> C[Venous drainage]
+    A --> D[Lymphatic drainage]
+    A --> E[Nerve supply]
+
+    B --> B1[Lingual artery]
+    B --> B2[Root: tonsillar + ascending pharyngeal]
+
+    C --> C1[Deep lingual vein]
+    C --> C2[Venae comitantes]
+    C --> C3[Lingual vein → IJV]
+
+    D --> D1[Marginal]
+    D --> D2[Central]
+    D --> D3[Dorsal]
+    D --> D4[Median lymphatics → bilateral]
+    D --> D5[Mainly → jugulo-omohyoid]
+
+    E --> E1[Motor → XII]
+    E --> E2[Exception: Palatoglossus]
+    E --> E3[Ant 2/3 → Lingual + Chorda tympani]
+    E --> E4[Post 1/3 → IX]
+    E --> E5[Posterior-most → Internal laryngeal]
+```
+
+### Heading sequence is:
+
+**TONGUE**
+
+1. **Parts**
+2. **Muscles**
+3. **Arterial supply**
+4. **Venous drainage**
+5. **Lymphatic drainage**
+6. **Nerve supply**
+
+
+# 8. CLINICAL ANATOMY ⭐⭐⭐
+
+## 1. Carcinoma of Tongue
+
+* **Carcinoma of tongue** is quite common.
+* The affected side of tongue may be **removed surgically**.
+* All **deep cervical lymph nodes** are also removed.
+
+### → Block dissection of neck
+
+**Reason:**
+Carcinoma may spread to **deep cervical lymph nodes** → risk of **recurrence**.
+
+```mermaid id="3x9c7u"
+flowchart LR
+    A[Carcinoma of tongue] --> B[Lymphatic spread]
+    B --> C[Deep cervical lymph nodes]
+    C --> D[Risk of recurrence]
+    D --> E[Block dissection of neck]
+```
+
+---
+
+## 2. Sublingual Administration of Sorbitrate
+
+**Sorbitrate** is administered **sublingually** for rapid relief of **angina pectoris**.
+
+### Why rapid?
+
+```mermaid id="g8h4qk"
+flowchart TD
+    A[Sublingual Sorbitrate] --> B[Rich blood supply of tongue]
+    B --> C[Rapid absorption]
+    C --> D[Bypasses portal circulation]
+    D --> E[Rapid relief of angina]
+```
+
+### 🔑 Key point
+
+> **Sublingual route → rapid absorption + bypasses portal circulation.**
+
+---
+
+# 3. Genioglossus — Safety Muscle ⭐⭐⭐
+
+**Genioglossus = “Safety muscle of tongue”**
+
+### Why?
+
+If genioglossus is paralysed:
+
+**Tongue falls backwards → oropharynx → airway obstruction**
+
+```mermaid id="4xj4s7"
+flowchart LR
+    A[Genioglossus paralysis] --> B[Tongue falls backwards]
+    B --> C[Oropharyngeal obstruction]
+    C --> D[Airway obstruction]
+```
+
+### Clinical importance
+
+During **anaesthesia**, the tongue may fall backwards.
+
+→ Tongue is pulled **forwards**
+
+→ Air passage is cleared.
+
+---
+
+# 4. Testing Hypoglossal Nerve ⭐⭐⭐
+
+### Genioglossus
+
+* **Only muscle that protrudes the tongue forwards**
+* Therefore, it is used to test the integrity of **hypoglossal nerve (XII)**.
+
+### Test
+
+**Ask patient to protrude the tongue.**
+
+```mermaid id="y1qf2k"
+flowchart TD
+    A[Ask patient to protrude tongue] --> B[Check direction of deviation]
+    B --> C[Normal]
+    B --> D[Right XII paralysis]
+    D --> E[Tongue deviates to right]
+```
+
+### Right hypoglossal nerve paralysis
+
+* **Right genioglossus → paralysed**
+* **Left genioglossus → normal**
+* Normal left genioglossus pulls the **base towards left**
+* Therefore, **apex deviates towards right**
+
+
+[ \boxed{\text{XII nerve paralysis → tongue deviates TO the affected side}} ]
+
+
+### 🧠 Lock it in
+
+> **“Tongue goes toward the lesion.”**
+
+**Right XII lesion → tongue → RIGHT**
+**Left XII lesion → tongue → LEFT**
+
+---
+
+# 🔥 ULTRA-HIGH-YIELD CLINICAL BOX
+
+| Clinical point             | Key fact                                                             |
+| -------------------------- | -------------------------------------------------------------------- |
+| **Carcinoma**              | → Deep cervical nodes → **block dissection**                         |
+| **Sublingual Sorbitrate**  | → Rich blood supply + **bypasses portal circulation** → rapid action |
+| **Genioglossus**           | **Safety muscle** → prevents posterior fall of tongue                |
+| **Genioglossus paralysis** | Tongue falls backward → **airway obstruction**                       |
+| **Only protruder**         | **Genioglossus**                                                     |
+| **Test XII**               | Ask patient to **protrude tongue**                                   |
+| **XII paralysis**          | Tongue deviates **towards lesion**                                   |
