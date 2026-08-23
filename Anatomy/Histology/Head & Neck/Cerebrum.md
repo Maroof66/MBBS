@@ -166,4 +166,4 @@ a. **External Band of Baillarger:** Horizontal fiber stripe located within **Lay
 b. **Internal Band of Baillarger:** Horizontal fiber stripe located within **Layer V** (*Internal Pyramidal Layer*).
 
 
-![alt text](image.png)
+![alt text](images/cerebralCortexhisto.png)
