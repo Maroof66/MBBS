@@ -1,5 +1,8 @@
 # RESTING MEMBRANE POTENTIAL (RMP)
 
+> ### Headings
+> ![alt text](images/RMPHeadings.png)
+
 * **Definition :** Electrical potential difference (voltage) across cell membrane (between inside & outside of cell) under resting condition.
 * **Also called :—**
   * a. Membrane potential

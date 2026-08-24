@@ -1,5 +1,8 @@
 # MECHANISM OF MUSCLE CONTRACTION
 
+> ### Headings 
+> ![alt text](images/HeadingsMuscleContraction.png)
+
 * **1. Physical Change :—** Change in length of muscle fibers / change in tension developed in muscle.
 * **2. Chemical Change :—** Energy necessary for muscular contraction is liberated during processes of breakdown & resynthesis of ATP.
 * **3. Histological Change :—**

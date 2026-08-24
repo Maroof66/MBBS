@@ -1,5 +1,8 @@
 # ACTION POTENTIAL
 
+> ### Headings
+> ![alt text](images/APheadings.png)
+
 * **Definition :** A series of electrical changes that occur in membrane potential when muscle / nerve is stimulated.
 * **Action potential occurs in 2 phases :—**
   * a. **Depolarisation :** Initial phase of action potential in which inside becomes positive & outside becomes negative. Polarized state (RMP) is abolished, resulting in depolarisation.

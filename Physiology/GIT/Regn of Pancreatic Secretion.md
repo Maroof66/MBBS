@@ -1,5 +1,8 @@
 # REGULATION OF PANCREATIC SECRETION
 
+> ### HEADINGS 
+> ![alt text](images/headingsRegOfPan.png)
+
 * Secretion of pancreatic juice is regulated by both **nervous and hormonal factors**.
 
 ---

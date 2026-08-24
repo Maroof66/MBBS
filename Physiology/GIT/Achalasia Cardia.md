@@ -1,12 +1,13 @@
 # Achalasia Cardia
 
-### **5-Mark Answer — Physiology**
+> ### Headings
+> ![alt text](images/achalasiaHeadings.png)
 
 ## 1. Definition
 
 **Achalasia = failure of relaxation**
 
-It is a disorder in which the **lower esophageal sphincter (LES) fails to relax adequately during deglutition**, causing impaired emptying of the esophagus.
+It is a disorder in whsich the **lower esophageal sphincter (LES) fails to relax adequately during deglutition**, causing impaired emptying of the esophagus.
 
 ---
 

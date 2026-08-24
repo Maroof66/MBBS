@@ -1,5 +1,8 @@
 # PROPERTIES OF SKELETAL MUSCLE
 
+> ### Headings
+> ![alt text](images/PropsofMUscleHeadings.png)
+
 * **Primary Properties :—**
   * a. **Excitability :** Reaction / response of a tissue to irritation / stimulation.
   * b. **Contractility**

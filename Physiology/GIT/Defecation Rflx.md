@@ -1,6 +1,6 @@
 # Defecation Reflex + Hirschsprung Disease
-
-### **5-Mark Answer — Physiology**
+> ### Headings
+> ![alt text](images/HeadingsDefacn.png)
 
 ## 1. Defecation Reflex
 

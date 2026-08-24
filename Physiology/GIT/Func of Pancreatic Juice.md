@@ -1,5 +1,8 @@
 # FUNCTIONS OF PANCREATIC JUICE
 
+> ### Headings 
+> ![alt text](images/HeadingsFuncofpan.png)
+
 * **Pancreatic juice has :—**
   * a. Digestive functions
   * b. Neutralizing action

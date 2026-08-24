@@ -1,5 +1,8 @@
 # NEUROMUSCULAR JUNCTION
 
+> ### Headings 
+> ![alt text](images/NMJheadings.png)
+
 * **Definition :** Junction between terminal branch of nerve fiber and muscle fiber.
 * **Structure :** Skeletal muscle fiber innervated by motor nerve fiber.
 

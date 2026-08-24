@@ -1,5 +1,8 @@
 # MYASTHENIA GRAVIS
 
+> ### Headings
+> ![alt text](images/HeadingsMG.png)
+
 * **An autoimmune disease of neuromuscular junction** caused by antibodies to cholinergic receptors.
 * **Characterised by grave weakness of muscle** due to inability of neuromuscular junction to transmit impulses.
 

@@ -1,5 +1,8 @@
 # SARCOMERE
 
+> ### Headings
+> ![alt text](images/SARCOHEADINGS.png)
+
 ### DEFINITION
 * **Sarcomere is defined as** the structural and functional unit of skeletal muscle.
 * **Basic contractile unit** of the muscle.
