@@ -33,6 +33,54 @@ flowchart TD
 
 ### DETAILED BREAKDOWN OF PHASES
 
+#### 1. Initial Depolarization (Phase 0)
+* **Mechanism :** Caused by the **rapid opening of fast $\text{Na}^+$ channels**, resulting in a rapid influx of $\text{Na}^+$ ions into the cell (similar to skeletal muscle fibers).
+* **Duration :** Lasts for about **$2\text{ msec}$ ($0.002\text{ sec}$)**.
+* **Amplitude :** Membrane potential rises to an amplitude of about **$+20\text{ mV}$**.
+
+---
+
+#### 2. Initial Repolarization (Phase 1)
+* **Mechanism :** 
+  * Due to the **transient (short duration) opening of $\text{K}^+$ channels** causing an efflux of a small quantity of $\text{K}^+$ ions.
+  * The fast $\text{Na}^+$ channels **close suddenly**, while slow $\text{Na}^+$ channels open, resulting in a slow influx of a low quantity of $\text{Na}^+$ ions.
+* **Duration :** Lasts for **$2\text{ msec}$**.
+* **Morphology :** Represented as a distinct **notch** on the action potential curve.
+
+---
+
+#### 3. Final Depolarization / Plateau (Phase 2)
+* **Mechanism :**
+  $$\text{Slow opening of } \text{Ca}^{2+} \text{ channels (remain open for a longer period)}$$
+  $$\downarrow$$
+  $$\text{Influx of large number of } \text{Ca}^{2+} \text{ ions}$$
+  $$\downarrow$$
+  $$\text{Slow influx of } \text{Na}^+ \text{ ions (through already opened slow } \text{Na}^+ \text{ channels)}$$
+  $$\downarrow$$
+  $$\text{Prolonged depolarization (}\text{Ca}^{2+} \ \& \ \text{Na}^+ \text{ ions maintain positivity inside)}$$
+* **Duration :**
+  * **$200\text{ msec}$** in atrial muscle fibers.
+  * **$300\text{ msec}$** in ventricular muscle fibers.
+* **Functional Consequence :** Contraction time is **5 to 15 times longer** in cardiac muscle than in skeletal muscle.
+
+---
+
+#### 4. Final Repolarization (Phase 3)
+* **Mechanism :** 
+  * Due to marked **efflux of $\text{K}^+$ ions**.
+  * The number of $\text{K}^+$ ions moving out exceeds the number of $\text{Ca}^{2+}$ ions moving in, restoring intracellular negativity (**final repolarization**).
+* **Duration :** A slow process that lasts for **$50 - 80\text{ msec}$**.
+
+---
+
+## RESTORATION OF RESTING MEMBRANE POTENTIAL (Phase 4)
+
+$$\text{Activation of } \mathbf{Na^+\text{-}K^+ \text{ pump}} \longrightarrow \text{All } \text{Na}^+ \text{ ions move out } \& \ \text{K}^+ \text{ ions move into the cell}$$
+$$\downarrow$$
+$$\text{Activation of } \mathbf{Na^+\text{-}Ca^{2+} \text{ pump}} \longrightarrow \text{Excess of } \text{Ca}^{2+} \text{ ions move out}$$
+
+
+
 ---
 
 ### RESTORATION OF RESTING MEMBRANE POTENTIAL (PHASE 4)
