@@ -1,5 +1,8 @@
 # Factors Affecting Respiratory Centres
 
+> ### Headings
+> ![alt text](images/HeadingsOfRespiCentreAffectingFactors.png)
+
 * Respiratory centres regulate the respiratory movements by receiving impulses from various sources in the body.
 
 ## 1. Impulse from Stretch Receptors of Lungs

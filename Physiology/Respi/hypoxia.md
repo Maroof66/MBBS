@@ -1,5 +1,8 @@
 # Hypoxia
 
+> ### Headings
+> ![alt text](images/Hypoxciaaheadings.png)
+
 - Reduced availability of oxygen to the tissues.
 - Anoxia refers to absence of oxygen.
 

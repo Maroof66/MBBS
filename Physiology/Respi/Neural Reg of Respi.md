@@ -1,5 +1,7 @@
 # Neural Regulation of Respiration
-### Headings
+
+> ### Headings
+> ![alt text](images/NeuralRegOFRespiHeadings.png)
 
 ## Introduction
 *Neural Regulation of Respiration includes:*

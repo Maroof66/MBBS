@@ -1,5 +1,8 @@
 # Chemical Mechanism of Respitory System Regulation
 
+> ### Headings
+> ![alt text](images/ChemRegnOfRespiHeadings.png)
+
 * Chemical mechanism is operated through chemoreceptors.
 
   * They are sensory nerve endings.
