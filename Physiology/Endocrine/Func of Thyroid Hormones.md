@@ -1,5 +1,7 @@
 # FUNCTIONS OF THYROID HORMONES
 
+> ![alt text](image.png)
+
 * **TH have 2 major effects on body:**
   1. To $\uparrow$se BMR
   2. To stimulate growth in children.
